@@ -1,6 +1,6 @@
 # Progress bar for GIFs
 
-A script that helps you catch the end of perfectly looping GIFs.
+A script that helps you catch the end of perfectly looping GIFs, preventing you from falling into the trap.
 
 ## Dependencies
 
